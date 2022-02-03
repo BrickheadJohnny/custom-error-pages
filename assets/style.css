@@ -22,4 +22,14 @@ h1 {
 
 a {
   color: #fff;
+  text-decoration: none;
+}
+
+.dc-link {
+  display: flex;
+  align-items: center;
+}
+
+.dc-link img {
+  margin-right: 8px;
 }

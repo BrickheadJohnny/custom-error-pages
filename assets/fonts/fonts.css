@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Dystopian';
-  src: url('/fontsDystopian-Black.woff2') format('woff2'),
+  src: url('Dystopian-Black.woff2') format('woff2'),
     url('Dystopian-Black.woff') format('woff'),
     url('Dystopian-Black.ttf') format('truetype');
   font-weight: 700;
