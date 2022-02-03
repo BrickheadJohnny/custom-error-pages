@@ -1,0 +1,25 @@
+@import "fonts/fonts.css";
+
+body {
+  background: #27272a;
+  color: #ffffff;
+  font-family: "Inter var, Inter, sans-serif"
+}
+
+.centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: "Dystopian, sans-serif";
+  font-weight: 700;
+}
+
+a {
+  color: #fff;
+}
